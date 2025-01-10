@@ -1,4 +1,4 @@
-module tablecreator
+module github.com/GitHubLeoYeh/autoTableGomod
 
 go 1.23.4
 

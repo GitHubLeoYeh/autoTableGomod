@@ -1,9 +1,9 @@
 package main
 
 import (
+	"github.com/GitHubLeoYeh/autoTableGomod/tablecreator"
+	"github.com/GitHubLeoYeh/autoTableGomod/user"
 	"log"
-	"tablecreator/tablecreator"
-	"tablecreator/user"
 )
 
 func main() {
